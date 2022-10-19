@@ -1,42 +1,35 @@
+<a name="readme-top"></a>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/50536495/170400421-0c3a1711-4484-42b1-995b-ee0095c3c7cb.png" width = "210" height = "210" alt="Get it on F-Droid"/>
   <h1>PixaPencil</h1>
-  <p><b>The #1 open source pixel art editor for Android</b><br>
+  <p><b>A free and open source pixel art editor for Android.</b><br>
 
-[![Discord](https://img.shields.io/badge/Discord-PixaPencil-blue.svg)](https://discord.com/invite/Ytm7WBMNz9)
-[![Matrix](https://img.shields.io/badge/Matrix-PixaPencil-green.svg)](https://matrix.to/#/#pixapencil:matrix.org)
-[![License](https://img.shields.io/badge/License-GPL%20v3-red.svg)](https://choosealicense.com/licenses/gpl-3.0/)
+[![Contributors][contributors-shield]][contributors-url]
+[![Community][community-shield]][community-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GPL v3 License][license-shield]][license-url]
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/therealbluepandabear/PixaPencil/releases/latest)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
 </div>
 
-### Most work is being done on the 0.2.0 branch: https://github.com/therealbluepandabear/PixaPencil/commits/0.2.0
+## About
 
-## 🗏 About
+PixaPecil is a free and open source pixel art editor for Android.
 
-Watch the trailer: https://odysee.com/@thebluepandabear:3/pixapenciltrailer:1
-
-PixaPencil is the number one open source pixel art editor for Android.
-
-Why you should try out PixaPencil:
-
-- Contains over 33+ useful features (see 'Features' section below)
-- 100% free of Google Play (tracking?) services
-- 100% free of advertisements
-- 100% commitment to open source
-
-PixaPencil only runs on Android 8.0 or higher.
-
-## ⚠️ Permissions
+## Permissions
 
 The app uses the following two permissions:
 
 - `android.permission.WRITE_EXTERNAL_STORAGE` (Android 10 and below) - this is for saving your creation as an image file in your system
 - `android.permission.INTERNET` - this is for the 'Import Lospec Palette' functionality
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🖼️ Showcase
+## Showcase
 
 ![image](https://user-images.githubusercontent.com/50536495/185532689-9dda1172-8214-467f-8616-e9e1fe890c1b.jpg)
 
@@ -49,7 +42,10 @@ The app uses the following two permissions:
 
 **If you want to showcase an image of your own please send me an email at therealbluepandabear@protonmail.com.**
 
-## 📝 Features (as of August 10, 2022)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Features
+
 - Pencil tool
 - Move tool
 - Fill tool 
@@ -83,19 +79,34 @@ The app uses the following two permissions:
 - Ability to flip your projects horizontally or vertically
 - Ability to save projects in background
 
-New features are always being added.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 📓 Translations
-**If you want to become a contributor, you can help translate the app at Weblate by clicking the image below.**
+## Translation status
 
-<a href="https://hosted.weblate.org/projects/pixapencil/#languages">
-<img src="https://hosted.weblate.org/widgets/pixapencil/-/287x66-grey.png" alt="Translation status" />
+<a href="https://hosted.weblate.org/engage/pixapencil/">
+<img src="https://hosted.weblate.org/widgets/pixapencil/-/open-graph.png" alt="Translation status" />
 </a>
 
-## 📚 Other libraries used
-Thanks to these people who helped create the libraries used in the app:
-- duanhong169 (https://github.com/duanhong169) - ColorPicker (https://github.com/duanhong169/ColorPicker)
-- yshrsmz (https://github.com/yshrsmz) - KeyboardVisibilityEvent (https://github.com/yshrsmz/KeyboardVisibilityEvent) 
-- Beyka (https://github.com/Beyka) - Android-TiffBitmapFactory (https://github.com/Beyka/Android-TiffBitmapFactory)
-- bumptech (https://github.com/bumptech) - Glide (https://github.com/bumptech/glide)
-- Tianscar (https://github.com/Tianscar) - Quick Image (https://github.com/Tianscar/quickimage) 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Other libraries used
+- [duanhong169](https://github.com/duanhong169) - **[ColorPicker](https://github.com/duanhong169/ColorPicker)**
+- [yshrsmz](https://github.com/yshrsmz) - **[KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent)** 
+- [Beyka](https://github.com/Beyka) - **[Android-TiffBitmapFactory](https://github.com/Beyka/Android-TiffBitmapFactory)**
+- [bumptech](https://github.com/bumptech) - **[Glide](https://github.com/bumptech/glide)**
+- [Tianscar](https://github.com/Tianscar) - **[Quick Image](https://github.com/Tianscar/quickimage)** 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/therealbluepandabear/PixaPencil.svg?style=for-the-badge
+[contributors-url]: https://github.com/therealbluepandabear/PixaPencil/graphs/contributors
+[community-shield]: https://img.shields.io/discord/958580428221067315.svg?style=for-the-badge
+[community-url]: https://discord.com/invite/Ytm7WBMNz9
+[forks-shield]: https://img.shields.io/github/forks/therealbluepandabear/PixaPencil.svg?style=for-the-badge
+[forks-url]: https://github.com/therealbluepandabear/PixaPencil/network/members
+[stars-shield]: https://img.shields.io/github/stars/therealbluepandabear/PixaPencil.svg?style=for-the-badge
+[stars-url]: https://github.com/therealbluepandabear/PixaPencil/stargazers
+[issues-shield]: https://img.shields.io/github/issues/therealbluepandabear/PixaPencil.svg?style=for-the-badge
+[issues-url]: https://github.com/therealbluepandabear/PixaPencil/issues
+[license-shield]: https://img.shields.io/github/license/therealbluepandabear/PixaPencil.svg?style=for-the-badge
+[license-url]: https://github.com/therealbluepandabear/PixaPencil/blob/master/LICENSE.txt
