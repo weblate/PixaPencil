@@ -16,7 +16,7 @@ If the app does not become abandoned, rest assured that I will verify that the n
 
 As I said before, I honestly cannot promise you guys that I will find someone who I think is capable of taking over development. If I do, it will be a long and tedious process and it will take a couple of months until full project control is given. 
 
-## !!! If the project becomes abandoned, I encourage anyone who is an Android developer to fork the app. Since the app is not popular enough, I doubt this will happen -- although I do encourage it. If a very good fork comes about, I will put a large header on the repository linking to that fork. !!!
+## !!! If the project becomes abandoned, I encourage anyone who is an Android developer to fork the app. If you are interested in becoming the new lead developer please contact me via EMAIL or DISCORD. Since the app is not popular enough, I doubt this will happen -- although I do encourage it. If a very good fork comes about, I will put a large header on the repository linking to that fork. !!!
 
 I know you are all wondering why I am abandoning development of the project, there are two reasons:
 
