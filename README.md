@@ -1,3 +1,53 @@
+# Project may be abandoned or transition to a new developer
+
+Hello guys,
+
+After some thought I have chosen to permanently suspend work on PixaPencil and instead move ownership of the app to someone else if possible. 
+
+As of this message being sent, I am no longer going to be developing this app for reasons which I will get into later. This is completely finalized and I will be putting a message on the official repository today.
+
+Given the fact that it is very hard to find someone who will actually want to maintain the app, and maintain it for reasons other than profit -- there is a 50/50 chance that the app will be completely abandoned, and that is unfortunate but keep in mind that people have a life outside of open source, and when you use an open source project you ought keep in mind that things like this can happen.
+
+As I said before, I really hope that the ownership can be moved to someone else who believes in the same FOSS principles as myself. I have already given some people who are interested in taking over development a manual on what to do, and if they fit my criteria I will be guiding and watching them closely for the first couple of months to ensure that they are fit for the job. 
+
+I hope you guys understand that this has not been an easy decision to make on behalf of myself, although I believe that it is the right one.
+
+If the app does not become abandoned, rest assured that I will verify that the new lead developer will keep the app 100% free and open source and GPL v3 licensed, although I cannot verify that surprises won't happen since I (might, I am still thinking about how things may play out) be relinquishing project control. I have also given them advice regarding decisions to do with design and the app's architecture.
+
+As I said before, I honestly cannot promise you guys that I will find someone who I think is capable of taking over development. If I do, it will be a long and tedious process and it will take a couple of months until full project control is given. 
+
+## !!! If the project becomes abandoned, I encourage anyone who is an Android developer to fork the app. Since the app is not popular enough, I doubt this will happen -- although I do encourage it. If a very good fork comes about, I will put a large header on the repository linking to that fork. !!!
+
+I know you are all wondering why I am abandoning development of the project, there are two reasons:
+
+1. I think PixaPencil is great, though it is time for me to move on to something else -- something bigger. Personally, I have decided to move away from Android development as a whole for the time being. I 'like' Android development although I find it too difficult and complex, changes are happening too often and it is becoming a 24/7 job to catch up with the new releases.
+
+2. I am not passionate about Android as a platform -- in fact, I could even hate Android as a platform. It may be open source, although the operating system functions as a spying device for most people via Google Play Services, and thus one could argue that since Android is almost always a base for something evil, it _itself_ is a form of evil. It is clear to me that Android is not freedom oriented due to the corporate influences behind it, Google does not and will never care about free and open source software.
+
+I am not happy with Android 13 and the increasing level of control Google is putting on the platform. I also do not like the corporate influences within Android, as I said before. I believe it is only a matter of time before Google destroys whatever is left of Android. Google is evil. 
+
+In summary, I apologize to all of you that this has happened. The app as it stands, is still fully functional -- and so I would say it will be usable for the next 5+ years, although it will be outdated and behind many other apps.
+If you have any questions, ask me on Discord or send me a direct message.
+
+FAQ:
+
+In case of the project switching to a new lead developer:
+
+**Will the app look/function the same?** I will speak to the new lead developer closely about how the app should look and function, although there are no promises.
+
+**Will you relinquish project control?** I may relinquish project control if I have enough faith in the developer. If I do not, I will simply tell them to fork the app and I will put a big header telling everyone to use the fork and encourage everyone to migrate to it.
+
+In case of project abandonment:
+
+**What will happen to the Discord server?** The Discord server will remain open, even if the app becomes abandoned. I do think that people will eventually leave though, and they may even begin leaving now once this message has come out. If most people leave, it will of course be shutdown.
+
+**What will happen to the repository?** The repository will remain up.
+
+**Should I hate you for this?** Maybe, although developers have lives outside of open source and are people at the end of the day, we also get to make our own decisions and we are not entitled to continue a project if we don't want to.
+
+---
+
+
 <a name="readme-top"></a>
 
 <div align="center">
