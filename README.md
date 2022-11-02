@@ -41,7 +41,7 @@ In case of project abandonment:
 
 **What will happen to the Discord server?** The Discord server will remain open, even if the app becomes abandoned. I do think that people will eventually leave though, and they may even begin leaving now once this message has come out. If most people leave, it will of course be shutdown.
 
-**What will happen to the repository?** The repository will remain up.
+**What will happen to the repository?** This repo will most likely turn into a public archive
 
 **Should I hate you for this?** Maybe, although developers have lives outside of open source and are people at the end of the day, we also get to make our own decisions and we are not entitled to continue a project if we don't want to.
 
